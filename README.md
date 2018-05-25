@@ -2,14 +2,14 @@
 
 > **Today I Learned** :+1:
 
-A collection of notes on things I learn day to day across a
+ A collection of notes on things I learn day to day across a
 variety of languages and technologies.
 
 <br/>
 <br/>
 <br/>
 
-> **Done is better than perfect**<br/>
+> **Done is better than perfect**<br/><br/>
 _by Sheryl Sandberg_
 ---
 
