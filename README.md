@@ -5,9 +5,11 @@
 A collection of notes on things I learn day to day across a
 variety of languages and technologies.
 
+<br/>
+<br/>
+<br/>
 
-
-> **Done is better than perfect**
+> **Done is better than perfect**<br/>
 _by Sheryl Sandberg_
 ---
 
