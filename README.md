@@ -25,6 +25,7 @@ _by Sheryl Sandberg_
 * [MySQL](#mysql)
 * [Linux](#linux)
 * [Git](#git)
+* [Web](#web)
 
 ---
 
@@ -48,6 +49,8 @@ _by Sheryl Sandberg_
 
 ## Git
 
+## Web
+- [Cookies vs Local Storage](web/cookies-vs-local-storage.md)
 ## Other TIL Collections
 
 
