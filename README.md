@@ -30,6 +30,8 @@ _by Sheryl Sandberg_
 ---
 
 ## DataScience
+- [What is sample and sample space?](dataScience/what-is-sample-and-sample-space.md)
+- [Bayesian and frequentist Interpretations of Probability](datascience/bayesian-and-frequentist-interpretations-of-probability.md)
 
 ## JAVA
 
