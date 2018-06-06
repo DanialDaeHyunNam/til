@@ -41,10 +41,12 @@ _by Sheryl Sandberg_
 ## Node
 
 ## Angular
+- [Calling order of AngularJS 1.X functions](angular/calling-order-of-AngularJS-functions.md)
 
 ## CSS
 
 ## Gulp
+- [When combining all the JS files should set the pipe order as the calling order of AngularJS 1.X functions](gulp/setting-the-pipe-order-as-the-calling-order-of-angluarjs.md)
 
 ## MySQL
 
