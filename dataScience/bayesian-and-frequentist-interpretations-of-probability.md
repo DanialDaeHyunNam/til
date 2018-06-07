@@ -27,14 +27,22 @@ $$ P(A|B) = \dfrac{P(B|A)P(A)}{P(B)} $$
 
 * 서로 교집합이 없고
 
-$$ A_i \cap A_j = \emptyset $$
-
+<p align="center">
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;A_i \cap A_j = \emptyset" title="\Large A_i \cap A_j = \emptyset" />
+</p>
 
 * 모두 합쳤을 때 (합집합) 전체 표본 공간이면
 
-$$ A_1 \cup A_2 \cup \cdots = \Omega $$
+<p align="center">
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1 \cup A_2 \cup \cdots = \Omega" title="A_1 \cup A_2 \cup \cdots = \Omega" />
+</p>
 
 
 전체 확률의 법칙을 이용하여 다음과 같이 베이즈 정리를 확장할 수 있다.
 
-$$ P(A_1|B) = \dfrac{P(B|A_1)P(A_1)}{P(B)} = \dfrac{P(B|A_1)P(A_1)}{\sum_i P(A_i, B)}= \dfrac{P(B|A_1)P(A_1)}{\sum_i P(B|A_i)P(A_i)}  $$
+<p align="center">
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;P(A_1|B) = \dfrac{P(B|A_1)P(A_1)}{P(B)} = \dfrac{P(B|A_1)P(A_1)}{\sum_i P(A_i, B)}= \dfrac{P(B|A_1)P(A_1)}{\sum_i P(B|A_i)P(A_i)}" title="\Large P(A_1|B) = \dfrac{P(B|A_1)P(A_1)}{P(B)} = \dfrac{P(B|A_1)P(A_1)}{\sum_i P(A_i, B)}= \dfrac{P(B|A_1)P(A_1)}{\sum_i P(B|A_i)P(A_i)}" />
+</p>
+
+
+<a href="http://www.codecogs.com" target="_blank"><img src="http://www.codecogs.com/images/poweredbycodecogs.png" border="0" title="CodeCogs - An Open Source Scientific Library" alt="CodeCogs - An Open Source Scientific Library"></a>
