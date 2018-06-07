@@ -32,7 +32,7 @@ _by Sheryl Sandberg_
 ## DataScience
 - [What is vector](dataScience/what-is-vector.md)
 - [What is sample and sample space?](dataScience/what-is-sample-and-sample-space.md)
-- [Bayesian and frequentist Interpretations of Probability](datascience/bayesian-and-frequentist-interpretations-of-probability.md)
+- [Bayesian and frequentist Interpretations of Probability](dataScience/bayesian-and-frequentist-interpretations-of-probability.md)
 - [Differentiation In Python Using Sympy Module](dataScience/differentiation-in-python-using-sympy-module.md)
 - [Integration In Python Using Sympy Module](dataScience/integration-in-python-using-sympy-module.md)
 
