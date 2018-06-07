@@ -56,6 +56,8 @@ _by Sheryl Sandberg_
 ## Linux
 
 ## Git
+- [Unstage a staged file](git/unstage-a-staged-file.md)
+- [Undoing things unmodifying a modified file](git/undoing-things-unmodifying-a-modified-file.md)
 
 ## Web
 - [Cookies vs Local Storage](web/cookies-vs-local-storage.md)
