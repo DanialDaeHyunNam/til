@@ -11,7 +11,7 @@ variety of languages and technologies.
 
 > **Done is better than perfect**<br/><br/>
 _by Sheryl Sandberg_
----
+<!-- --- -->
 
 ### Categories
 
@@ -27,7 +27,7 @@ _by Sheryl Sandberg_
 * [Git](#git)
 * [Web](#web)
 
----
+<!-- --- -->
 
 ## DataScience
 - [What is vector](dataScience/what-is-vector.md)
@@ -62,8 +62,6 @@ _by Sheryl Sandberg_
 
 ## Web
 - [Cookies vs Local Storage](web/cookies-vs-local-storage.md)
-## Other TIL Collections
-
 
 ## License
 
