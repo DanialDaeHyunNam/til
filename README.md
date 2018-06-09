@@ -13,7 +13,7 @@ variety of languages and technologies.
 _by Sheryl Sandberg_
 <!-- --- -->
 
-### Categories
+## Categories
 
 * [DataScience](#datascience)
 * [JAVA](#java)
