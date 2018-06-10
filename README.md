@@ -36,6 +36,7 @@ _by Sheryl Sandberg_
 - [Bayesian chain rule](dataScience/bayesian-chain-rule.md)
 - [Differentiation In Python Using Sympy Module](dataScience/differentiation-in-python-using-sympy-module.md)
 - [Integration In Python Using Sympy Module](dataScience/integration-in-python-using-sympy-module.md)
+- [Minimize a function using Sequential Least SQuares Programming](dataScience/minimize-a-function-using-sequential-least-squares-programming.md)
 
 ## JAVA
 
