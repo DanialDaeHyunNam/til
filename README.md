@@ -43,6 +43,7 @@ _by Sheryl Sandberg_
 
 ## Python
 - [Difference between mutable and immutable objects](python/difference-between-mutable-and-immutable-objects.md)
+- [How to change data type to int when there is some value that cannot be converted to int](python/how-to-change-data-type-to-int-when-there-is-some-value-that-cannot-be-converted-to-int.md)
 
 ## Node
 
