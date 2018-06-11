@@ -49,6 +49,7 @@ _by Sheryl Sandberg_
 
 ## Angular
 - [Calling order of AngularJS 1.X functions](angular/calling-order-of-AngularJS-functions.md)
+- [A basic command line for Angular](angular/a-basic-command-line-for-Angular.md)
 
 ## CSS
 
