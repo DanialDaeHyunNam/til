@@ -52,6 +52,7 @@ _by Sheryl Sandberg_
 - [A basic command line for Angular](angular/a-basic-command-line-for-Angular.md)
 
 ## CSS
+- [How :first-child works and difference between first-child and first-of-type](css/how-first-child-works-and-difference-between-first-child-and-first-of-type.md)
 
 ## Gulp
 - [When combining all the JS files should set the pipe order as the calling order of AngularJS 1.X functions](gulp/setting-the-pipe-order-as-the-calling-order-of-angluarjs.md)
