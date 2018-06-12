@@ -9,8 +9,6 @@ variety of languages and technologies.
 <br/>
 <br/>
 
-> **Done is better than perfect**<br/><br/>
-_by Sheryl Sandberg_
 <!-- --- -->
 
 ## Categories
