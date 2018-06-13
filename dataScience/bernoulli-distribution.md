@@ -3,10 +3,7 @@
 ##### Understanding of python codes
 - [np.bincount](#bincount)
 
-
-
-
-
+**베르누이 변수** 는 0, 1 두 가지 값 중 하나만 가질 수 있으므로 이산 확률 변수(discrete random variable)이다. 따라서 확률 질량 함수(pmf: probability mass function)로 정의할 수 있다.
 
 ##### bincount
 ```python
