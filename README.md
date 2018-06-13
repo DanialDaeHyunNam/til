@@ -36,6 +36,8 @@ variety of languages and technologies.
 - [Integration In Python Using Sympy Module](dataScience/integration-in-python-using-sympy-module.md)
 - [Minimize a function using Sequential Least SQuares Programming](dataScience/minimize-a-function-using-sequential-least-squares-programming.md)
 - [Understanding of the Relationships Among Random Variables and Sampling](dataScience/understanding-of-the-relationships-among-random-variables-and-sampling.md)
+- **Discrete probability distribution**
+  + [Bernoulli distribution](dataScience/bernoulli-distribution.md)
 
 ## JAVA
 
