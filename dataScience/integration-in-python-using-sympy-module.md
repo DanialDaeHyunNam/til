@@ -25,9 +25,3 @@ F = sp.integrate(f)
 # 수치 적분(Numerical integration)
 sp.integrate.quad(f, 0, 2)
 ```
-
-##### by Danial
-
----
-
-## Reference
