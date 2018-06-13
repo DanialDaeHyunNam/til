@@ -23,9 +23,3 @@ sp.diff(f4, x) # x로 편미분
 sp.diff(f4, y) # y로 편미분
 sp.diff(f4, y, x) # y로 편미분 후, x로 편미분
 ```
-
-##### by Danial
-
----
-
-## Reference
