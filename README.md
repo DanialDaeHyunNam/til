@@ -6,8 +6,6 @@
 variety of languages and technologies.
 
 <br/>
-<br/>
-<br/>
 
 <!-- --- -->
 
