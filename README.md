@@ -36,6 +36,7 @@ variety of languages and technologies.
 - [Understanding of the Relationships Among Random Variables and Sampling](dataScience/understanding-of-the-relationships-among-random-variables-and-sampling.md)
 - **Discrete probability distribution**
   + [Bernoulli distribution](dataScience/bernoulli-distribution.md)
+  + [Binomial distribution](dataScience/binomial-distribution.md)
 
 ## JAVA
 
