@@ -37,6 +37,7 @@ variety of languages and technologies.
 - **Discrete probability distribution**
   + [Bernoulli distribution](dataScience/bernoulli-distribution.md)
   + [Binomial distribution](dataScience/binomial-distribution.md)
+  + [Categorical distribution](dataScience/categorical-distribution.md)
 
 ## JAVA
 
