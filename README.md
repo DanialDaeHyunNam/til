@@ -39,6 +39,8 @@ variety of languages and technologies.
   + [Binomial distribution](dataScience/binomial-distribution.md)
   + [Categorical distribution](dataScience/categorical-distribution.md)
   + [Multinomial distribution](dataScience/multinomial-distribution.md)
+- **Normal distribution and statistical distribution**
+  + [Gaussian normal distribution](dataScience/gaussian-normal-distribution.md)
 
 ## JAVA
 
