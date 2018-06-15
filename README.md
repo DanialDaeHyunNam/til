@@ -38,6 +38,7 @@ variety of languages and technologies.
   + [Bernoulli distribution](dataScience/bernoulli-distribution.md)
   + [Binomial distribution](dataScience/binomial-distribution.md)
   + [Categorical distribution](dataScience/categorical-distribution.md)
+  + [Multinomial distribution](dataScience/multinomial-distribution.md)
 
 ## JAVA
 
