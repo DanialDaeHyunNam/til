@@ -41,6 +41,8 @@ variety of languages and technologies.
   + [Multinomial distribution](dataScience/multinomial-distribution.md)
 - **Normal distribution and statistical distribution**
   + [Gaussian normal distribution](dataScience/gaussian-normal-distribution.md)
+  + [Q-Q plot](dataScience/q-q-plot.md)
+  + [Central Limit Theorem](dataScience/central-limit-theorem.md)
 
 ## JAVA
 
