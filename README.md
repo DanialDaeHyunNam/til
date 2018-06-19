@@ -43,12 +43,21 @@ variety of languages and technologies.
   + [Gaussian normal distribution](dataScience/gaussian-normal-distribution.md)
   + [Q-Q plot](dataScience/q-q-plot.md)
   + [Central Limit Theorem](dataScience/central-limit-theorem.md)
+  + [Student's t-distribution](dataScience/students-t-distribution.md)
+  + [Chi-squared distribution](dataScience/chi-squared-distribution.md)
+  + [F distribution](dataScience/f-distribution.md)
+- **Bayesian Methods of Parameter Estimation**
+  + [Beta distribution](dataScience/beta-distribution.md)
+  + [Dirichlet distribution](dataScience/dirichlet-distribution.md)
+  + [Gamma distribution](dataScience/gamma-distribution.md)
+
 
 ## JAVA
 
 ## Python
 - [Difference between mutable and immutable objects](python/difference-between-mutable-and-immutable-objects.md)
 - [How to change data type to int when there is some value that cannot be converted to int](python/how-to-change-data-type-to-int-when-there-is-some-value-that-cannot-be-converted-to-int.md)
+- [Enumerate](python/enumerate.md)
 
 ## Node
 
