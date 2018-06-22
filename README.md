@@ -79,6 +79,7 @@ variety of languages and technologies.
 - [Unstage a staged file](git/unstage-a-staged-file.md)
 - [Undoing things unmodifying a modified file](git/undoing-things-unmodifying-a-modified-file.md)
 - [Git fetch and undo git fetch](git/git-fetch-and-undo-git-fetch.md)
+- [Deeper understanding of branch, reset, fetch](git/deeper-understanding-of-branch-reset-fetch.md)
 
 ## Web
 - [Cookies vs Local Storage](web/cookies-vs-local-storage.md)
