@@ -58,6 +58,7 @@ variety of languages and technologies.
 - [Difference between mutable and immutable objects](python/difference-between-mutable-and-immutable-objects.md)
 - [How to change data type to int when there is some value that cannot be converted to int](python/how-to-change-data-type-to-int-when-there-is-some-value-that-cannot-be-converted-to-int.md)
 - [Enumerate](python/enumerate.md)
+- [Several ways to do web crawling using Python](python/several-ways-to-do-web-crawling-using-Python.md)
 
 ## Node
 
