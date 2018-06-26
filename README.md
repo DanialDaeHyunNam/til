@@ -12,6 +12,7 @@ variety of languages and technologies.
 ## Categories
 
 * [DataScience](#datascience)
+* [BasicDataScience](#basicdatascience)
 * [JAVA](#java)
 * [Python](#python)
 * [Node](#node)
@@ -26,30 +27,33 @@ variety of languages and technologies.
 <!-- --- -->
 
 ## DataScience
-- [What is vector](dataScience/what-is-vector.md)
-- [What is sample and sample space?](dataScience/what-is-sample-and-sample-space.md)
-- [Bayesian and frequentist Interpretations of Probability](dataScience/bayesian-and-frequentist-interpretations-of-probability.md)
-- [Bayesian chain rule](dataScience/bayesian-chain-rule.md)
-- [Differentiation In Python Using Sympy Module](dataScience/differentiation-in-python-using-sympy-module.md)
-- [Integration In Python Using Sympy Module](dataScience/integration-in-python-using-sympy-module.md)
-- [Minimize a function using Sequential Least SQuares Programming](dataScience/minimize-a-function-using-sequential-least-squares-programming.md)
-- [Understanding of the Relationships Among Random Variables and Sampling](dataScience/understanding-of-the-relationships-among-random-variables-and-sampling.md)
+- [Linear regression analysis - Deterministic Model](dataScience/linear-regression-analysis-deterministic-model.md)
+
+## BasicDataScience
+- [What is vector](basicDataScience/what-is-vector.md)
+- [What is sample and sample space?](basicDataScience/what-is-sample-and-sample-space.md)
+- [Bayesian and frequentist Interpretations of Probability](basicDataScience/bayesian-and-frequentist-interpretations-of-probability.md)
+- [Bayesian chain rule](basicDataScience/bayesian-chain-rule.md)
+- [Differentiation In Python Using Sympy Module](basicDataScience/differentiation-in-python-using-sympy-module.md)
+- [Integration In Python Using Sympy Module](basicDataScience/integration-in-python-using-sympy-module.md)
+- [Minimize a function using Sequential Least SQuares Programming](basicDataScience/minimize-a-function-using-sequential-least-squares-programming.md)
+- [Understanding of the Relationships Among Random Variables and Sampling](basicDataScience/understanding-of-the-relationships-among-random-variables-and-sampling.md)
 - **Discrete probability distribution**
-  + [Bernoulli distribution](dataScience/bernoulli-distribution.md)
-  + [Binomial distribution](dataScience/binomial-distribution.md)
-  + [Categorical distribution](dataScience/categorical-distribution.md)
-  + [Multinomial distribution](dataScience/multinomial-distribution.md)
+  + [Bernoulli distribution](basicDataScience/bernoulli-distribution.md)
+  + [Binomial distribution](basicDataScience/binomial-distribution.md)
+  + [Categorical distribution](basicDataScience/categorical-distribution.md)
+  + [Multinomial distribution](basicDataScience/multinomial-distribution.md)
 - **Normal distribution and statistical distribution**
-  + [Gaussian normal distribution](dataScience/gaussian-normal-distribution.md)
-  + [Q-Q plot](dataScience/q-q-plot.md)
-  + [Central Limit Theorem](dataScience/central-limit-theorem.md)
-  + [Student's t-distribution](dataScience/students-t-distribution.md)
-  + [Chi-squared distribution](dataScience/chi-squared-distribution.md)
-  + [F distribution](dataScience/f-distribution.md)
+  + [Gaussian normal distribution](basicDataScience/gaussian-normal-distribution.md)
+  + [Q-Q plot](basicDataScience/q-q-plot.md)
+  + [Central Limit Theorem](basicDataScience/central-limit-theorem.md)
+  + [Student's t-distribution](basicDataScience/students-t-distribution.md)
+  + [Chi-squared distribution](basicDataScience/chi-squared-distribution.md)
+  + [F distribution](basicDataScience/f-distribution.md)
 - **Bayesian Methods of Parameter Estimation**
-  + [Beta distribution](dataScience/beta-distribution.md)
-  + [Dirichlet distribution](dataScience/dirichlet-distribution.md)
-  + [Gamma distribution](dataScience/gamma-distribution.md)
+  + [Beta distribution](basicDataScience/beta-distribution.md)
+  + [Dirichlet distribution](basicDataScience/dirichlet-distribution.md)
+  + [Gamma distribution](basicDataScience/gamma-distribution.md)
 
 
 ## JAVA
