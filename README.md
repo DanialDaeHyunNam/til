@@ -28,6 +28,8 @@ variety of languages and technologies.
 
 ## DataScience
 - [Linear regression analysis - Deterministic Model](dataScience/linear-regression-analysis-deterministic-model.md)
+- [Linear regression analysis - Probabilistic Model](dataScience/linear-regression-analysis-probabilistic-model.md)
+
 
 ## BasicDataScience
 - [What is vector](basicDataScience/what-is-vector.md)
