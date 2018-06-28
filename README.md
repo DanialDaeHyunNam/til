@@ -29,6 +29,7 @@ variety of languages and technologies.
 ## DataScience
 - [Linear regression analysis - Deterministic Model](dataScience/linear-regression-analysis-deterministic-model.md)
 - [Linear regression analysis - Probabilistic Model](dataScience/linear-regression-analysis-probabilistic-model.md)
+- [Partial Regression](dataScience/partial-regression.md)
 
 
 ## BasicDataScience
@@ -57,7 +58,6 @@ variety of languages and technologies.
   + [Dirichlet distribution](basicDataScience/dirichlet-distribution.md)
   + [Gamma distribution](basicDataScience/gamma-distribution.md)
 
-
 ## JAVA
 
 ## Python
@@ -81,6 +81,9 @@ variety of languages and technologies.
 ## MySQL
 
 ## Linux
+- [Environment path](linux/environment-path.md)
+- [Export](linux/export.md)
+- [Differences between sh and source](linux/differences-between-sh-and-source.md)
 
 ## Git
 - [Unstage a staged file](git/unstage-a-staged-file.md)
