@@ -30,6 +30,7 @@ variety of languages and technologies.
 - [Linear regression analysis - Deterministic Model](dataScience/linear-regression-analysis-deterministic-model.md)
 - [Linear regression analysis - Probabilistic Model](dataScience/linear-regression-analysis-probabilistic-model.md)
 - [Partial Regression](dataScience/partial-regression.md)
+- [After the first linear regression project](dataScience/after-the-first-linear-regression-project.md)
 
 
 ## BasicDataScience
