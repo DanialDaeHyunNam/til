@@ -58,6 +58,10 @@ variety of languages and technologies.
   + [Beta distribution](basicDataScience/beta-distribution.md)
   + [Dirichlet distribution](basicDataScience/dirichlet-distribution.md)
   + [Gamma distribution](basicDataScience/gamma-distribution.md)
+- **Hypothesis testing using scipy**
+  + [Binomial test](basicDataScience/binomial-test.md)
+  + [Chi-square test](basicDataScience/chi-square-test.md)
+  + [Independent two sample t test](basicDataScience/Independent-two-sample-t-test.md)
 
 ## JAVA
 
