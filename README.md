@@ -85,6 +85,7 @@ variety of languages and technologies.
 - [When combining all the JS files should set the pipe order as the calling order of AngularJS 1.X functions](gulp/setting-the-pipe-order-as-the-calling-order-of-angluarjs.md)
 
 ## MySQL
+- [Basic MySQL](mysql/basic-mysql.md)
 
 ## Linux
 - [Environment path](linux/environment-path.md)
