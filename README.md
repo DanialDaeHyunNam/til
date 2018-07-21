@@ -95,6 +95,7 @@ variety of languages and technologies.
 - [Environment path](linux/environment-path.md)
 - [Export](linux/export.md)
 - [Differences between sh and source](linux/differences-between-sh-and-source.md)
+- [Run python flask on EC2 in the backgroud](linux/run-python-flask-on-EC2-in-the-backgroud.md)
 
 ## Git
 - [Unstage a staged file](git/unstage-a-staged-file.md)
