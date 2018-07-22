@@ -34,6 +34,8 @@ variety of languages and technologies.
 - [After the first linear regression project](dataScience/after-the-first-linear-regression-project.md)
 - **Clustering**
   + [K-Means clustering](dataScience/k-means-clustering.md)
+  + [Hierarchy clustering](dataScience/hierarchy-clustering.md)
+  + [Gaussian-mixuture model](dataScience/gaussian-mixuture-model.md)
 
 ## BasicDataScience
 - [What is vector](basicDataScience/what-is-vector.md)
@@ -64,6 +66,7 @@ variety of languages and technologies.
   + [Binomial test](basicDataScience/binomial-test.md)
   + [Chi-square test](basicDataScience/chi-square-test.md)
   + [Independent two sample t test](basicDataScience/Independent-two-sample-t-test.md)
+- [Covariance and correlation coefficient](basicDataScience/covariance-and-correlation-coefficient.md)
 
 ## JAVA
 
