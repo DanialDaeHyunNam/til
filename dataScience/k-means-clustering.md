@@ -19,6 +19,39 @@ max_iter를 통해서 몇번 시도할 것인지를 결정한다.
 """           
 ```
 
+#### K-means Score의 의미
+Inertia를 구한 값이다. 모든 데이터별로 가장 가깝다고 판단한 클러스터 중심과의 거리를 구한 후에 제곱한 값의 Sum값을 의미한다.
+
+```python
+from sklearn.cluster import KMeans
+X = np.array([[7, 5], [5, 7], [7, 7], [4, 4], [4, 6], [1, 4],
+              [0, 0], [2, 2], [8, 7], [6, 8], [5, 5], [3, 7]])
+plt.scatter(X[:, 0], X[:, 1], s=100)
+plt.show()
+model1 = KMeans(n_clusters=2, init="random", n_init=1,
+               max_iter=1, random_state=1).fit(X)
+c0, c1 = model1.cluster_centers_
+print(c0, c1)
+def kmeans_df(model, c0, c1):
+    df = pd.DataFrame(np.hstack([X,
+                                 np.linalg.norm(X - c0, axis=1)[:, np.newaxis],
+                                 np.linalg.norm(X - c1, axis=1)[:, np.newaxis],
+                                 model.labels_[:, np.newaxis]]),
+                      columns=["x0", "x1", "d0", "d1", "c"])
+    return df
+df = kmeans_df(model1, c0, c1)
+print(df)
+df_0 = df[df["c"] == 0]
+df_1 = df[df["c"] == 1]
+print()
+print("sum(df_1[\"d1\"] ** 2) + sum(df_0[\"d0\"] ** 2) 의 값 : ", end=" ")
+print(sum(df_1["d1"] ** 2) + sum(df_0["d0"] ** 2))
+print()
+print("model1.score(X) 의 값 : ", end=" ")
+print(model1.score(X))
+```
+
+
 #### 클러스터링 성능 기준
 성능 기준은 정확한 답(클러스터의 개수 및 소속)을 알고 있는 경우와 그렇지 않은 경우에 따라 다른 방식을 사용하게 된다.<br>
 
