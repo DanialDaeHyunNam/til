@@ -107,6 +107,10 @@ variety of languages and technologies.
 ## Web
 - [Cookies vs Local Storage](web/cookies-vs-local-storage.md)
 
+## Reference
+- [jbranchaud/til](https://github.com/jbranchaud/til)
+- [DataScienceSchool](https://datascienceschool.net/view-notebook/661128713b654edc928ecb455a826b1d/)
+
 ## License
 
 &copy; 2018 Danial Nam(남대현/南大铉)
