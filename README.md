@@ -32,7 +32,8 @@ variety of languages and technologies.
 - [Linear regression analysis - Probabilistic Model](dataScience/linear-regression-analysis-probabilistic-model.md)
 - [Partial Regression](dataScience/partial-regression.md)
 - [After the first linear regression project](dataScience/after-the-first-linear-regression-project.md)
-
+- **Clustering**
+  + [K-Means clustering](dataScience/k-means-clustering.md)
 
 ## BasicDataScience
 - [What is vector](basicDataScience/what-is-vector.md)
