@@ -94,6 +94,7 @@ variety of languages and technologies.
 
 ## MongoDB
 - [Basic MongoDB Shell Command](mongodb/basic-mongodb-shell-command.md)
+- [Basic MongoDB Update Command](mongodb/basic-mongodb-update-command.md)
 
 ## Linux
 - [Environment path](linux/environment-path.md)

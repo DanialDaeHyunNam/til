@@ -1,5 +1,11 @@
 ## Basic MySQL
 
+- Change table charset
+```
+USE <database_name>
+ALTER DATABASE <table_name> CHARACTER SET = utf8;
+```
+
 - Ceil
 
 ```MySQL
