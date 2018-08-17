@@ -32,17 +32,22 @@ variety of languages and technologies.
 - [Linear regression analysis - Probabilistic Model](dataScience/linear-regression-analysis-probabilistic-model.md)
 - [Partial Regression](dataScience/partial-regression.md)
 - [After the first linear regression project](dataScience/after-the-first-linear-regression-project.md)
-- **Clustering**
+- **Clustering(Unsupervised Machine Learning)**
   + [K-Means clustering](dataScience/k-means-clustering.md)
   + [Hierarchy clustering](dataScience/hierarchy-clustering.md)
   + [Gaussian-mixuture model](dataScience/gaussian-mixuture-model.md)
 - **Classification**
+  + [Basic knowledge of classification](dataScience/basic-knowledge-of-classification.md)
   + [Logistic Regression](dataScience/logisitic-regression.md)
   + [QDA and LDA](dataScience/qda-and-lda.md)
   + [Naive Bayes](dataScience/naive-bayes.md)
   + [Decision Tree](dataScience/decision-tree.md)
   + [Ensemble Methods](dataScience/ensemble-methods.md)
   + [Gradient Boosting Classifier](dataScience/gradient-boosting-classifier.md)
+  + [Perceptron and Support Vector Machine ](dataScience/perceptron-and-support-vector-machine.md)
+- [The evaluation methods for verifying performance of classification](dataScience/the-evoluation-methods-for-verifying-performance-of-classfication.md)
+- **Neural Network**
+
 ## BasicDataScience
 - [What is vector](basicDataScience/what-is-vector.md)
 - [What is sample and sample space?](basicDataScience/what-is-sample-and-sample-space.md)
