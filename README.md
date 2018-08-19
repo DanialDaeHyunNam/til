@@ -47,6 +47,8 @@ variety of languages and technologies.
   + [Perceptron and Support Vector Machine ](dataScience/perceptron-and-support-vector-machine.md)
 - [The evaluation methods for verifying performance of classification](dataScience/the-evoluation-methods-for-verifying-performance-of-classfication.md)
 - **Neural Network**
+  + [Basic Neural Network](dataScience/basic-neural-network.md)
+  + [Neural Network with Keras](dataScience/neural-network-with-keras.md)
 
 ## BasicDataScience
 - [What is vector](basicDataScience/what-is-vector.md)
