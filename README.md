@@ -32,10 +32,12 @@ variety of languages and technologies.
 - [Linear regression analysis - Probabilistic Model](dataScience/linear-regression-analysis-probabilistic-model.md)
 - [Partial Regression](dataScience/partial-regression.md)
 - [After the first linear regression project](dataScience/after-the-first-linear-regression-project.md)
+- [Gibbs Sampling](dataScience/gibbs-sampling.md)
 - **Clustering(Unsupervised Machine Learning)**
   + [K-Means clustering](dataScience/k-means-clustering.md)
   + [Hierarchy clustering](dataScience/hierarchy-clustering.md)
   + [Gaussian-mixuture model](dataScience/gaussian-mixuture-model.md)
+  + [Latent Dirichlet Allocation](dataScience/latent-dirichlet-allocation.md)
 - **Classification**
   + [Basic knowledge of classification](dataScience/basic-knowledge-of-classification.md)
   + [Logistic Regression](dataScience/logisitic-regression.md)
