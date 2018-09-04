@@ -91,6 +91,7 @@ variety of languages and technologies.
 - [Enumerate](python/enumerate.md)
 - [Several ways to do web crawling using Python](python/several-ways-to-do-web-crawling-using-Python.md)
 - [Numpy.newaxis](python/numpy-newaxis.md)
+- [collections.Counter](python/collections-counter.md)
 
 ## Node
 
