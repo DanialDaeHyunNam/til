@@ -113,6 +113,7 @@ variety of languages and technologies.
 - [Basic MongoDB Update Command](mongodb/basic-mongodb-update-command.md)
 
 ## Linux
+- [Basic Shell Script](linux/basic-shell-script.md)
 - [Environment path](linux/environment-path.md)
 - [Export](linux/export.md)
 - [Differences between sh and source](linux/differences-between-sh-and-source.md)
