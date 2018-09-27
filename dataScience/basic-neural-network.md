@@ -22,6 +22,7 @@
 <br>
 미분은 아래와 같이 쉽게 할 수 있다.<br>
 **d&sigma;(a)/da = &sigma;(a)(1-&sigma;(a)) = &sigma;(a)&sigma;(-a)**
+<br>
 최종 클래스 값은
 <br>
 **y = sign(z - 1/2) = round(z)**
