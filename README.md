@@ -51,6 +51,7 @@ variety of languages and technologies.
 - **Neural Network**
   + [Basic Neural Network](dataScience/basic-neural-network.md)
   + [Feedforward Propagation](dataScience/feedforward-propagation.md)
+  + [Back Propagation](dataScience/back-propagation.md)
   + [Neural Network with Keras](dataScience/neural-network-with-keras.md)
 
 ## BasicDataScience
