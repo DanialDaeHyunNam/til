@@ -84,9 +84,9 @@ done
 str1="hello"
 str2="world"
 
-if [ ${str1} == ${str2} ]; then
+if [ ${str1} = ${str2} ]; then
   echo "hello world"
-elif [ ${str1} == ${str3} ]; then
+elif [ ${str1} = ${str3} ]; then
   echo "go away"
 else
   echo "good bye"
