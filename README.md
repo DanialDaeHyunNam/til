@@ -11,10 +11,11 @@ variety of languages and technologies.
 
 ## Categories
 
-* [DataScience](#datascience)
-* [BasicDataScience](#basicdatascience)
+* [Data Science](#data-science)
+* [Basic Data Science](#basic-data-science)
 * [JAVA](#java)
 * [Python](#python)
+* [Tensorflow](#tensorflow)
 * [Node](#node)
 * [Angular](#angular)
 * [CSS](#css)
@@ -27,7 +28,7 @@ variety of languages and technologies.
 
 <!-- --- -->
 
-## DataScience
+## Data Science
 - [Linear regression analysis - Deterministic Model](dataScience/linear-regression-analysis-deterministic-model.md)
 - [Linear regression analysis - Probabilistic Model](dataScience/linear-regression-analysis-probabilistic-model.md)
 - [Partial Regression](dataScience/partial-regression.md)
@@ -54,7 +55,7 @@ variety of languages and technologies.
   + [Back Propagation](dataScience/back-propagation.md)
   + [Neural Network with Keras](dataScience/neural-network-with-keras.md)
 
-## BasicDataScience
+## Basic Data Science
 - [What is vector](basicDataScience/what-is-vector.md)
 - [What is sample and sample space?](basicDataScience/what-is-sample-and-sample-space.md)
 - [Bayesian and frequentist Interpretations of Probability](basicDataScience/bayesian-and-frequentist-interpretations-of-probability.md)
@@ -94,6 +95,8 @@ variety of languages and technologies.
 - [Several ways to do web crawling using Python](python/several-ways-to-do-web-crawling-using-Python.md)
 - [Numpy.newaxis](python/numpy-newaxis.md)
 - [collections.Counter](python/collections-counter.md)
+
+## Tensorflow
 
 ## Node
 
