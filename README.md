@@ -5,6 +5,8 @@
  A collection of notes on things I learn day to day across a
 variety of languages and technologies.
 
+Also check out the [tech blog](https://databuzz-team.github.io/) that me and my colleagues are running.
+
 <br/>
 
 <!-- --- -->
